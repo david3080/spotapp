@@ -1,3 +1,3 @@
 //SSID='1Z04hpGaUvTDULpC-sj6zBinnnndcCc4QXC6Q2A_F6QY'
-SSID='19w6_2mPaRVzNrk7tOOEwqTJeN_GGd4iT9t4vK1RChAI'
+SSID='1bFyrhqXdeP9inYEogIgP47dhFbcD_anq8yuPocV1Fa8'
 SNAME=okazaki!A2:K1000
